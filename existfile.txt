@@ -1,1 +1,2 @@
 a programmer text editer .it can be used to edit all kinds of plain text
+the term devops is a combination of two world
